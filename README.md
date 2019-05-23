@@ -38,3 +38,6 @@ Referrences:
 - spacy.io
 - https://github.com/ines/spacy-course
 
+# Changes
+- Please Add correct path for your files while downloading.
+
